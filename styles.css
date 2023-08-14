@@ -1,0 +1,22 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+	
+	font-family: sans-serif;
+  color: white;
+  margin-left: 20px;
+  font-size: 60p;
+}
+
+p{
+font-family: sans-serif;
+font-size: 34p;
+}
+
+
+#p1{
+	 font-family: Arial, Helvetica, sans-serif;
+	 color: pink;
+}
