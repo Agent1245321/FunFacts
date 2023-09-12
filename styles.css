@@ -1,24 +1,31 @@
 
 body {
-  background-color: #9C89FF;
+
+background-color: #9C89FF;
+border-color: #541675;
+
   margin: 21, 21, auto, auto;
   border-style: solid;
   border-width: 4px;
-  border-color: #541675;
+  
   
 }
 
 h1 {
 	
+
+color: #7E38B7;
+background-color: #99CCED;
+border-color: #541675;
+
 	font-family: sans-serif;
-  color: #7E38B7;
   margin: 10px, 10px, 10px, 10px;
   font-size: 80px;
   text-align: center;
   border-style: solid;
   border-width: 4px;
-  border-color: #541675;
-  background-color: #99CCED;
+  
+  
   padding: 10, 10, 10, 10;
 }
 
@@ -26,10 +33,11 @@ h2{
 
 
 color: #7E38B7;
-border-style: solid;
-border-width: 4px;
-  border-color: #541675;
-  background-color: #99CCED;
+background-color: #99CCED;
+border-color: #541675;
+
+	border-style: solid;
+	border-width: 4px;
 	margin-top: 80px;
 	margin-bottom: 0px;
 	font-size: 60px;
@@ -42,10 +50,11 @@ border-width: 4px;
 h3{
 
 color: #7E38B7;
-border-style: solid;
-border-width: 4px;
-  border-color: #541675;
-  background-color: #99CCED;
+background-color: #99CCED;
+border-color: #541675;
+
+	border-style: solid;
+	border-width: 4px;
 	margin-top: 80px;
 	margin-bottom: 0px;
 	font-size: 40px;
@@ -55,18 +64,24 @@ border-width: 4px;
 	
 }
 p{
+
+color: #C4FEFF;
+
 	margin-top: 4px;
 	margin: auto 20px;
-font-family: sans-serif;
-font-size: 40px;
-color: #C4FEFF;
+	font-family: sans-serif;
+	font-size: 40px;
+
 
 }
 
 
 #p1{
+
+color: #9C89FF;
+
 	 font-family: Arial, Helvetica, sans-serif;
-	 color: #9C89FF;
+	 
 }
 
 //#of{
