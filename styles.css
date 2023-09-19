@@ -1,8 +1,8 @@
 
 body {
 
-background-color: #660549;
-border-color: #F49646;
+background-color: #000000;
+border-color: #66ffff;
 
   margin: 21, 21, auto, auto;
   border-style: solid;
@@ -15,8 +15,8 @@ h1 {
 	
 
 color: #FA8019;
-background-color: #14F036;
-border-color: #F49646;
+background-color: #aa00aa;
+border-color: #66ffff;
 
 	font-family: sans-serif;
   margin: 10px, 10px, 10px, 10px;
@@ -32,9 +32,9 @@ border-color: #F49646;
 h2{
 
 
-color: #FA8019;
-background-color: #14F036;
-border-color: #F49646;
+color: #000000;
+background-color: #ff8855;
+border-color: #66ffff;
 
 	border-style: solid;
 	border-width: 4px;
@@ -49,9 +49,9 @@ border-color: #F49646;
 
 h3{
 
-color: #FA8019;
-background-color: #14F036;
-border-color: #F49646;
+color: #000000;
+background-color: #ffff00;
+border-color: #66ffff;
 
 	border-style: solid;
 	border-width: 4px;
@@ -78,7 +78,7 @@ color: #1dff78;
 
 #p1{
 
-color: #660549;
+color: #000000;
 
 	 font-family: Arial, Helvetica, sans-serif;
 	 
