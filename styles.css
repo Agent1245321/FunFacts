@@ -1,8 +1,8 @@
 
 body {
 
-background-color: #D8E0BB;
-border-color: #6B3074;
+background-color: #ecc8af; 	/* 1 */
+border-color: #c18c5d; 			/* 4 */
 
 
 
@@ -16,9 +16,9 @@ border-color: #6B3074;
 
 .headings
 {
-	color: #7268A6;
-background-color: #B6CEC7;
-border-color: #6B3074;
+	color: #ce796b;						/* 3 */
+background-color: #e7ad99;	/* 2 */
+border-color: #c18c5d;			/* 4 */
 
 
 
@@ -36,7 +36,7 @@ border-color: #6B3074;
 
 p{
 
-color: #0000bb;
+color: #0000bb;     /* 5 */
 
 	margin-top: 4px;
 	margin: auto 20px;
@@ -49,7 +49,7 @@ color: #0000bb;
 
 #p1{
 
-color: #D8E0BB;
+color: #ecc8af;			/* 1 */
 
 	 font-family: Arial, Helvetica, sans-serif;
 	 
