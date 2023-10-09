@@ -1,8 +1,8 @@
 
 body {
 
-background-color: #ecc8af; 	/* 1 */
-border-color: #c18c5d; 			/* 4 */
+background-color: #8f2464; 	/* 1 */
+border-color: #c34758; 			/* 4 */
 
 
 
@@ -16,9 +16,9 @@ border-color: #c18c5d; 			/* 4 */
 
 .headings
 {
-	color: #ce796b;						/* 3 */
-background-color: #e7ad99;	/* 2 */
-border-color: #c18c5d;			/* 4 */
+	color: #e17a4b;						/* 3 */
+background-color: #451b64;	/* 2 */
+border-color: #c34758;			/* 4 */
 
 
 
@@ -36,7 +36,7 @@ border-color: #c18c5d;			/* 4 */
 
 p{
 
-color: #0000bb;     /* 5 */
+color: #4894dc;     /* 5 */
 
 	margin-top: 4px;
 	margin: auto 20px;
@@ -49,7 +49,7 @@ color: #0000bb;     /* 5 */
 
 #p1{
 
-color: #ecc8af;			/* 1 */
+color: #8f2464;			/* 1 */
 
 	 font-family: Arial, Helvetica, sans-serif;
 	 
