@@ -1,8 +1,8 @@
 
 body {
 
-background-color: #8f2464; 	/* 1 */
-border-color: #c34758; 			/* 4 */
+background-color: #550055; 	/* 1 */
+border-color: #00ff33; 			/* 4 */
 
 
 
@@ -16,9 +16,9 @@ border-color: #c34758; 			/* 4 */
 
 .headings
 {
-	color: #e17a4b;						/* 3 */
-background-color: #451b64;	/* 2 */
-border-color: #c34758;			/* 4 */
+	color: #ff00ff;						/* 3 */
+background-color: #337755;	/* 2 */
+border-color: #00ff33;			/* 4 */
 
 
 
@@ -49,7 +49,7 @@ color: #4894dc;     /* 5 */
 
 #p1{
 
-color: #8f2464;			/* 1 */
+color: #550055;			/* 1 */
 
 	 font-family: Arial, Helvetica, sans-serif;
 	 
