@@ -1,0 +1,14 @@
+C:\Users\JacobPrice\Documents\FunFacts\AutoCompiler\bin\Debug\net6.0\AutoCompiler.exe
+C:\Users\JacobPrice\Documents\FunFacts\AutoCompiler\bin\Debug\net6.0\AutoCompiler.deps.json
+C:\Users\JacobPrice\Documents\FunFacts\AutoCompiler\bin\Debug\net6.0\AutoCompiler.runtimeconfig.json
+C:\Users\JacobPrice\Documents\FunFacts\AutoCompiler\bin\Debug\net6.0\AutoCompiler.dll
+C:\Users\JacobPrice\Documents\FunFacts\AutoCompiler\bin\Debug\net6.0\AutoCompiler.pdb
+C:\Users\JacobPrice\Documents\FunFacts\AutoCompiler\obj\Debug\net6.0\AutoCompiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JacobPrice\Documents\FunFacts\AutoCompiler\obj\Debug\net6.0\AutoCompiler.AssemblyInfoInputs.cache
+C:\Users\JacobPrice\Documents\FunFacts\AutoCompiler\obj\Debug\net6.0\AutoCompiler.AssemblyInfo.cs
+C:\Users\JacobPrice\Documents\FunFacts\AutoCompiler\obj\Debug\net6.0\AutoCompiler.csproj.CoreCompileInputs.cache
+C:\Users\JacobPrice\Documents\FunFacts\AutoCompiler\obj\Debug\net6.0\AutoCompiler.dll
+C:\Users\JacobPrice\Documents\FunFacts\AutoCompiler\obj\Debug\net6.0\refint\AutoCompiler.dll
+C:\Users\JacobPrice\Documents\FunFacts\AutoCompiler\obj\Debug\net6.0\AutoCompiler.pdb
+C:\Users\JacobPrice\Documents\FunFacts\AutoCompiler\obj\Debug\net6.0\AutoCompiler.genruntimeconfig.cache
+C:\Users\JacobPrice\Documents\FunFacts\AutoCompiler\obj\Debug\net6.0\ref\AutoCompiler.dll

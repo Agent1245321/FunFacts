@@ -1,13 +1,13 @@
 body{
-background-color: #2b3784; /* 1 */ 
-border-color: #000000; /* 4 */ 
+background-color: #b11313; /* 1 */ 
+border-color: #2b3784; /* 4 */ 
 margin: 21, 21, auto, auto;
 border-style: solid; 
 border-width: 4px; }
 .headings{ 
 color: #000000; /* 3 */ 
-background-color: #b11313;	/* 2 */ 
-border-color: #000000; /* 4 */ 
+background-color: #447bbe;	/* 2 */ 
+border-color: #2b3784; /* 4 */ 
 font-family: sans-serif;
 margin: 10px, 10px, 10px, 10px;
 font-size: 80px;
@@ -16,13 +16,13 @@ border-style: solid;
 border-width: 4px;
 padding: 10, 10, 10, 10; }
 p{
-color: #df1f2d;     /* 5 */
+color: #ffffff;     /* 5 */
 margin-top: 4px;
 margin: auto 20px;
 font-family: sans-serif;
 font-size: 40px;}
 #p1{
-color: #2b3784; /* 1 */
+color: #b11313; /* 1 */
 font-family: Arial, Helvetica, sans-serif;}
 #atr{
 margin-top: 0;}
